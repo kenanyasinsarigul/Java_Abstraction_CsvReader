@@ -10,7 +10,7 @@
 <p align="center">
   <h2 align="center">Java_Abstraction_CsvReader (10.2021)</h2>
   <p align="center">
-    Frontend : <a href="https://github.com/kenanyasinsarigul/Java_Abstraction_CsvReader">JAVA</a>
+    GO : <a href="https://github.com/kenanyasinsarigul/Java_Abstraction_CsvReader">JAVA</a>
     <br />
     <br />
     <a href="https://github.com/kenanyasinsarigul/Java_Abstraction_CsvReader/issues">Report Bug</a>
