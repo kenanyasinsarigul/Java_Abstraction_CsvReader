@@ -23,6 +23,8 @@
 ## Acknowledgements
 
 - ibrahimaltinoluk
+- mustafapicakci
+- tugayipek1
 
 ## Author
 Kenan Yasin SARIGÜL- <a href="https://github.com/kenanyasinsarigul/">Github</a>
